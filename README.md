@@ -6,6 +6,9 @@
 
 Visit the [site](https://codeninjasgg.github.io/javascript-camp/)!
 
+## Sensei Todo 😎
+* [ ] We should have a live document that shows how to complete each JavaScript activity, marked up with comments explaining the solution. We can choose whether or not the students are allowed to see them.
+
 ## Editing Documents 🖊
 
 ### Edit Existing (Online) 📝
