@@ -11,7 +11,7 @@ This camp is all about learning the basics of JavaScript and using the Code Ninj
 1. Once everyone is logged in, we can start learn some JavaScript basics!
 
 ## Follow Along 👏
-1. First things first, let's open up our curriculem for today by clicking [this](https://raw.githubusercontent.com/codeninjasgg/javascript-camp/master/.sensei/Beginning_JavaScript.pdf#page=4) link.
+1. First things first, let's open up our curriculum for today by clicking [this](https://raw.githubusercontent.com/codeninjasgg/javascript-camp/master/.sensei/Beginning_JavaScript.pdf#page=4) link.
 1. We will now click [here](https://dojo.code.ninja/welcome/cn-ca-garden-grove) to sign in the the Code Ninjas dojo to access the GDP.
 1. Let's [learn](https://raw.githubusercontent.com/codeninjasgg/javascript-camp/master/.sensei/Beginning_JavaScript.pdf#page=5) how to create a private path.
 1. Let's [learn](https://raw.githubusercontent.com/codeninjasgg/javascript-camp/master/.sensei/Beginning_JavaScript.pdf#page=6) how to create a new scene and go over how to navigate the various sections of the GDP.
